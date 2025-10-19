@@ -1,1 +1,1 @@
-print("Feature 2 commit 2")
+print("Conflict Resolved")
